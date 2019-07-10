@@ -317,7 +317,7 @@ function getSharks() {
 
 在关系代数中：
 $$
-sharks = σ_{family = "sharks"}(animals)
+sharks = σ_{family = ''sharks''}(animals)
 $$
 σ（希腊字母西格玛）是选择操作符，只返回符合条件的动物，`family="shark"`。
 
